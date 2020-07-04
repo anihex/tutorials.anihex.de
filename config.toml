@@ -2,3 +2,6 @@ baseURL = "https://tutorials.anihex.de/"
 languageCode = "de"
 title = "anihexTutorials"
 theme = "learn"
+
+[params]
+	themeVariant = "green"
